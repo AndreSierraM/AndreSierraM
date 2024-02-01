@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Sierra</h1>
-<h3 align="center">I am a computer science or systems engineering student</h3>
+<h3 align="center">I am a systems engineering student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
